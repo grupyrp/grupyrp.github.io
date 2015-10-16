@@ -10,6 +10,14 @@ PATH = 'content'
 
 TIMEZONE = 'America/Sao_Paulo'
 
+THEME = 'themes/malt'
+MEMBROS = {'': ''}
+SITE_LOGO = 'images/logo/logo.png'
+SITE_BACKGROUND_IMAGE = 'images/banners/aerea.jpg'
+STATIC_PATHS = ['images', ]
+
+WELCOME_TITLE = 'Grupy-RP'
+
 DEFAULT_LANG = u'pt'
 
 # Feed generation is usually not desired when developing
@@ -29,7 +37,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
