@@ -27,6 +27,10 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+PAGE_URL = '{slug}'
+PAGE_SAVE_AS = '{slug}.html'
+INDEX_SAVE_AS = "blog/index.html"
+
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Python.org', 'http://python.org/'),
