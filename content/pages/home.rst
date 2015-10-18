@@ -1,4 +1,4 @@
 Grupy-RP
 #########
-:slug: home
+:slug: index
 :template: home
