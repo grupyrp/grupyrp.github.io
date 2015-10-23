@@ -31,6 +31,12 @@ PAGE_URL = '{slug}'
 PAGE_SAVE_AS = '{slug}.html'
 INDEX_SAVE_AS = "blog/index.html"
 
+PLUGIN_PATHS = ['./plugins']
+PLUGINS = [
+    'members'
+]
+
+
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Python.org', 'http://python.org/'),
