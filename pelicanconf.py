@@ -11,7 +11,6 @@ PATH = 'content'
 TIMEZONE = 'America/Sao_Paulo'
 
 THEME = 'themes/malt'
-MEMBROS = {'': ''}
 SITE_LOGO = 'images/logo/logo.png'
 SITE_BACKGROUND_IMAGE = 'images/banners/aerea.jpg'
 STATIC_PATHS = ['images', ]
@@ -30,6 +29,12 @@ AUTHOR_FEED_RSS = None
 PAGE_URL = '{slug}'
 PAGE_SAVE_AS = '{slug}.html'
 INDEX_SAVE_AS = "blog/index.html"
+
+PLUGIN_PATHS = ['./plugins']
+PLUGINS = [
+    'members'
+]
+
 
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
