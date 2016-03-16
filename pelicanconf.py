@@ -48,5 +48,47 @@ SOCIAL = (('You can add links in your config file', '#'),
 
 DEFAULT_PAGINATION = False
 
+MALT_HOME = [
+    {
+        "color": "blue-grey lighten-5",
+        "title": "O que Fazemos?",
+        "items": [
+            {
+                "title": "Comunidade",
+                "icon": "fa-comments",
+                "text": "",
+                "buttons": [
+                    {
+                        "text": "Saiba Mais",
+                        "href": "comunidade",
+                    },
+                ],
+            },
+            {
+                "title": "Membros",
+                "icon": "fa-users",
+                "text": "",
+                "buttons": [
+                    {
+                        "text": "Conheça",
+                        "href": "membros",
+                    },
+                ],
+            },
+            {
+                "title": "Projetos",
+                "icon": "fa-briefcase",
+                "text": "",
+                "buttons": [
+                    {
+                        "text": "Mais detalhes",
+                        "href": "http://github.com/grupyrp/",
+                    },
+                ],
+            },
+        ]
+    },
+]
+
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
