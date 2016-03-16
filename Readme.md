@@ -9,6 +9,7 @@ Para contribuir
 
 
     git clone https://github.com/grupyrp/grupyrp.github.io
+    git submodule update --init --recursive
 
 * Crie e ative um virtualenv
 
