@@ -48,6 +48,24 @@ SOCIAL = (('You can add links in your config file', '#'),
 
 DEFAULT_PAGINATION = False
 
+SOCIAL_LINKS = (
+    {
+        "href": "https://github.com/grupyrp",
+        "icon": "fa-github",
+        "text": "GitHub",
+    },
+    {
+        "href": "https://www.facebook.com/grupyrp",
+        "icon": "fa-facebook",
+        "text": "Facebook",
+    },
+    {
+        "href": "https://groups.google.com/forum/#!forum/grupy-rp",
+        "icon": "fa-envelope",
+        "text": "Lista de emails",
+    },
+)
+
 MALT_HOME = [
     {
         "color": "blue-grey lighten-5",
@@ -56,7 +74,10 @@ MALT_HOME = [
             {
                 "title": "Comunidade",
                 "icon": "fa-comments",
-                "text": "",
+                "text": (
+                    "Somos uma comunidade de desenvolvedores e entusiastas da "
+                    "linguagem de programação Python, aqui alguns lugares onde "
+                    "nos encontrar"),
                 "buttons": [
                     {
                         "text": "Saiba Mais",
@@ -67,7 +88,10 @@ MALT_HOME = [
             {
                 "title": "Membros",
                 "icon": "fa-users",
-                "text": "",
+                "text": (
+                    "Nosso grupo é formado pelos mais diversos tipos de "
+                    "pessoas, com histórias e personalidades diferentes, veja"
+                    "quem somos"),
                 "buttons": [
                     {
                         "text": "Conheça",
@@ -82,7 +106,7 @@ MALT_HOME = [
                 "buttons": [
                     {
                         "text": "Mais detalhes",
-                        "href": "http://github.com/grupyrp/",
+                        "href": "",
                     },
                 ],
             },
