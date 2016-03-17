@@ -17,6 +17,7 @@ Para contribuir
     ```bash
     virtualenv grupyrp
     source grupyrp/bin/activate
+    pip install -r requirements.txt
     ```
 
 * Inicie o servidor de desenvolvimento do pelican
