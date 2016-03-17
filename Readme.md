@@ -21,3 +21,7 @@ Para contribuir
 
 
     ./develop_server.sh start
+
+* Coloque o output do pelican em produção em grupyrp.github.io
+
+    make github

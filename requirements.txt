@@ -1,0 +1,2 @@
+pelican==3.6.3
+ghp-import==0.4.1
