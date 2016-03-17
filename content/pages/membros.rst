@@ -4,5 +4,5 @@ Membros
 :template: membros
 :members: nome, twitter, github, site_nome, site_href
     Danilo Shiga, @daneoshiga, daneoshiga, Danilo Shiga, http://daniloshiga.com
-    Jessica Temporal, @jesstemporal, jtemporal, , 
+    Jessica Temporal, @jesstemporal, jtemporal
     Marco Rougeth, @marcorougeth, rougeth, Marco Rougeth, http://rougeth.com
