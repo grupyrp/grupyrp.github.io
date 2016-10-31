@@ -1,3 +1,0 @@
-%% if with_blog
-_model: blog
-%% endif
