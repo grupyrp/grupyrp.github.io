@@ -1,4 +1,0 @@
-[submodule "themes/malt"]
-	path = themes/malt
-	url = git@github.com:daneoshiga/malt.git
-	branch = master

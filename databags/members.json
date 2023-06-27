@@ -1,0 +1,57 @@
+{
+  "members": [
+    {
+      "name": "Danilo Shiga",
+      "github": "daneoshiga",
+      "twitter": "daneoshiga",
+      "linkedin": "daniloshiga",
+      "site": "https://daniloshiga.com"
+    },
+    {
+      "name": "Hugo Penna",
+      "github": "hugopenna",
+      "twitter": "hugopenna",
+      "linkedin": "hugopenna",
+      "site": "https://hugopenna.com"
+    },
+    {
+      "name": "Jessica Temporal",
+      "github": "jtemporal",
+      "twitter": "jesstemporal",
+      "linkedin": "jessicatemporal",
+      "site": "https://jtemporal.com"
+    },
+    {
+      "name": "Júlia Carmona",
+      "github": "juhhcarmona",
+      "linkedin": "jucarmona"
+    },
+    {
+      "name": "Leticia Portella",
+      "github": "leportella",
+      "twitter": "leleportella",
+      "linkedin": "leportella",
+      "site": "https://leportella.com"
+    },
+    {
+      "name": "Marco Rougeth",
+      "github": "rougeth",
+      "twitter": "marcorougeth",
+      "site": "https://rgth.co"
+    },
+    {
+      "name": "Murilo Viana",
+      "github": "muriloviana",
+      "twitter": "muuviana",
+      "linkedin": "muriloviana",
+      "site": "https://muriloviana.me"
+    },
+    {
+      "name": "Pablo Aguilar",
+      "github": "thepabloaguilar",
+      "twitter": "thepabloaguilar",
+      "linkedin": "thepabloaguilar",
+      "site": "https://thepabloaguilar.dev"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "grupyrp.github.io"
+version = "0.1.0"
+description = "Grupy Website"
+authors = ["Grupy RP"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+lektor = "^3.3.10"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
