@@ -3,7 +3,7 @@ name: deploy
 on:
   push:
     branches:
-      - pelican
+      - main
   workflow_dispatch:
 
 permissions:
