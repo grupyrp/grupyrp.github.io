@@ -1,0 +1,7 @@
+[project]
+name = Grupy RP
+locale = pt_BR
+url = https://grupyrp.github.io
+
+[packages]
+lektor-tailwind = 0.1.2
